@@ -1,0 +1,2 @@
+# KPIAnalysisForE-MarketingEvaluation-ADSP
+ This repository contains code for analyzing Key Performance Indicator (KPI) traces in e-marketing. In e-marketing, the evaluation of digital advertising is done in terms of cost and benefit tradeoff. The KPIs, which represent the benefits of a marketing campaign, are quantified in terms of clicks and/or sales (conversions). In this analysis, we will focus on three main KPIs: Cost, Clicks, and Conversions.
